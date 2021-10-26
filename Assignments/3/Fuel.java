@@ -11,8 +11,9 @@ public class Fuel {
 		double KPL = input.nextDouble();
 		System.out.print("Enter price per liter: ");
 		double PPL = input.nextDouble();
-		double cost =Distance/KPL*PPL;
+		double cost =(Distance/KPL)*PPL;
 		System.out.println("The cost of driving is $"+cost);
+		System.out.println("The cost of driving is $"+((Distance/KPL))*PPL);
 		
 		
 		
