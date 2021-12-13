@@ -1,4 +1,4 @@
-package finalLabExamSpring2021;
+package week16;
 
 public class Employee
 {
@@ -50,7 +50,6 @@ public class Employee
 		if (isManagerValid(newManager))
 		{
 			this.manager = newManager;
-			newManager.salary += 1000;
 
 			System.out.println("Manager has been changed correctly");
 			return true;
@@ -77,9 +76,11 @@ public class Employee
 	//Otherwise, it returns false. It returns false if manager is NULL.
 	private boolean isManagerValid(Employee manager)
 	{
-		if (manager == null)
+		if (manager == null) 
 			return false;
 		
+		//is same department and
+		//This employee is a manager, can not put manager for him
 		if (this.department.equalsIgnoreCase(manager.department) && manager.manager == null)
 			return true;
 		else
@@ -97,15 +98,15 @@ public class Employee
 			return false;
 
 		if (performance >= 90 && performance <= 100)
-			salary = salary * 1.15;
+			salary = salary * 1.15; //15%  1 + .15
 		else if (performance >= 75 && performance < 90)
-			salary = salary * 1.1;
+			salary = salary * 1.1; //10%
 		else if (performance >= 50 && performance < 75)
-			salary = salary * 1.05;
+			salary = salary * 1.05;//5%
 		else if (performance >= 25 && performance < 50)
 			salary = salary * 1;
 		else
-			salary = salary * 0.95;
+			salary = salary * 0.95; //-0.05%  1 - 0.05
 
 		if (years >= 0 && years <= 5)
 			salary += 100;
@@ -113,10 +114,11 @@ public class Employee
 			salary += 250;
 		else if (years >= 11)
 			salary += 500;
-		
+
 		years++;
 		
-		if (this.manager != null)
+		//this.manager != null //means the employee has a manager, this employee not a manager
+		if (this.manager == null)
 			salary += 1000;
 
 		return true;
@@ -124,18 +126,18 @@ public class Employee
 
 	public String toString()
 	{
-		String t = "";
+		String t;
 		
-		if (this.manager == null)
-		{
-			t += "Manager of " + this.department + " department. Worked for ";
-			t += years + " years. Salary: " + this.salary;
-		}
+		/*
+		if (this.manager == null) //this is a manager
+			t += "Manager of ";
 		else
-		{
-			t += "Employee in " + this.department + " department. Worked for " + this.years;
-			t += " years. Salary: " + this.salary;			
-		}
+			t += "Employee in ";
+		*/
+		
+		t = this.manager == null ? "Manager of " : "Employee in ";
+		
+		t += this.department + " department. Worked for " + years + " years. Salary: " + this.salary;
 
 		return t;
 	}

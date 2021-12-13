@@ -1,4 +1,4 @@
-package finalLabExamSpring2021;
+package week16;
 
 import java.util.Scanner;
 
@@ -27,7 +27,7 @@ public class TestEmployee
 		//3. Perform 3 yearlyRaise() on the first employee 
 		//(ask the user to type the performance for each year).
 		double performance;
-
+		
 		for (int i = 0 ; i < 3 ; i++)
 		{
 			System.out.print("Enter the first employee yearly performance " + (i+1) + " : ");
