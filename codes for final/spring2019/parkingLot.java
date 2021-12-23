@@ -90,10 +90,4 @@ public class parkingLot {
 	public boolean isEmpty() { 
 		return numAvailableSpot==parkingLot.length;
 	}
-	
-	
-	
-	
-	
-	
 }
