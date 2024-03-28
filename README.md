@@ -10,3 +10,10 @@
 
 
 # FTC rev :  https://youtube.com/playlist?list=PLT10mtvjaTpbFl05HdQgDs0BZ2TJew1CB&si=V7ws3Iy71WYMvzJX 
+# F20_CSC111_Labs : https://youtube.com/playlist?list=PLpoeG8d3dx95J8VeIwPAguH-sK54ZFkQa&feature=shared
+# JAVA1_KSU_43_T_ D.MAHMOUD SAMIR IBRAHIM : https://youtube.com/playlist?list=PLiOsrzh6MHoOqUJ4P3sbTivIkKzHVc_EJ&feature=shared
+# JAVA1_KSU_43 : https://youtube.com/playlist?list=PLiOsrzh6MHoNQ8gw39lObOggLn-b0tSxV&feature=shared
+# EXAMES : https://youtube.com/playlist?list=PLiOsrzh6MHoMUDFfDwjwGtrhYHMIhE2hC&feature=shared
+# EXAMES : https://youtube.com/playlist?list=PLiOsrzh6MHoPWTs74IOMBVc8Sd_zdemBN&feature=shared
+# JAVA1_KSU_43 : https://youtube.com/playlist?list=PLiOsrzh6MHoP5GDp6Xc9npiAl3BVWnzU3&feature=shared
+# : 
