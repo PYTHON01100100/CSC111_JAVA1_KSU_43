@@ -9,4 +9,4 @@
 #6-لا تنسى ذكر الله والصلاة على رسول الله محمد بن عبدالله عليه الصلاة والسلام وتوكل على الله وفقط أعمل بالأسباب 
 
 
-# FTC rev : https://youtu.be/aU7C41KTRMM
+# FTC rev :  https://youtube.com/playlist?list=PLT10mtvjaTpbFl05HdQgDs0BZ2TJew1CB&si=V7ws3Iy71WYMvzJX 
