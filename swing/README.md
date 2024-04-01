@@ -9,4 +9,8 @@
 #6-لا تنسى ذكر الله والصلاة على رسول الله محمد بن عبدالله عليه الصلاة والسلام وتوكل على الله وفقط أعمل بالأسباب 
 
 
+# Java GUI: Full Course ☕ (FREE) : https://youtu.be/Kmgo00avvEw
 # Ahmad Tayeb : https://youtube.com/playlist?list=PLSZQ3C44oU-jdul5XVsxNNC5VRiD585Cy&si=G8WJoRLIiQfzw3uX
+# Modern_Dev : https://youtube.com/playlist?list=PLc27PqKL-_w51CD7v0eEVzc3ORHLS2Vnf&si=NmCsn11mQhD-Khtc
+# java tmz : https://youtube.com/playlist?list=PLXAqryjVbtZzv28AAhyn1U902jY1-nxAx&si=m2PmyY6_RdNh3D6R
+# Muhammed Essa : https://youtube.com/playlist?list=PLMYF6NkLrdN9myVt8qSDQqhBjGwwLuEzG&si=jzDySRpWjYJRme-t
