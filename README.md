@@ -17,3 +17,4 @@
 # JAVA1_KSU_43 : https://youtube.com/playlist?list=PLiOsrzh6MHoP5GDp6Xc9npiAl3BVWnzU3&feature=shared
 # F20_CSC111_Tutorials : https://youtube.com/playlist?list=PLpoeG8d3dx945D2L2zVwTMjY1JkMAkPt1&feature=shared
 # F20_CSC111_Labs : https://youtube.com/playlist?list=PLpoeG8d3dx95J8VeIwPAguH-sK54ZFkQa&feature=shared
+# Maad Coding : https://youtube.com/playlist?list=PLF7pjAYSxOFsH79nD_vCSrtSwkGoi3xe4&si=ZlAl56Aoh1-RsTCN
