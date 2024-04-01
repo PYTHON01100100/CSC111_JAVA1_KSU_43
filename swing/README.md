@@ -8,7 +8,7 @@
 #5- في حال لم تفهم دكتورك أو في جزئية لا تفهما فأبحث باليوتيوب على شرح مناسب لك أو خذها من موقع هرماش
 #6-لا تنسى ذكر الله والصلاة على رسول الله محمد بن عبدالله عليه الصلاة والسلام وتوكل على الله وفقط أعمل بالأسباب 
 
-
+# harmash : https://harmash.com/tutorials/swing/overview
 # Java GUI: Full Course ☕ (FREE) : https://youtu.be/Kmgo00avvEw
 # Ahmad Tayeb : https://youtube.com/playlist?list=PLSZQ3C44oU-jdul5XVsxNNC5VRiD585Cy&si=G8WJoRLIiQfzw3uX
 # Modern_Dev : https://youtube.com/playlist?list=PLc27PqKL-_w51CD7v0eEVzc3ORHLS2Vnf&si=NmCsn11mQhD-Khtc
