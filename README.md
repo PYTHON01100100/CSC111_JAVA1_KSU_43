@@ -18,3 +18,10 @@
 # F20_CSC111_Tutorials : https://youtube.com/playlist?list=PLpoeG8d3dx945D2L2zVwTMjY1JkMAkPt1&feature=shared
 # F20_CSC111_Labs : https://youtube.com/playlist?list=PLpoeG8d3dx95J8VeIwPAguH-sK54ZFkQa&feature=shared
 # Maad Coding : https://youtube.com/playlist?list=PLF7pjAYSxOFsH79nD_vCSrtSwkGoi3xe4&si=ZlAl56Aoh1-RsTCN
+# Java Full Course for free ☕ : https://youtu.be/xk4_1vDrzzo
+# Java Programming for Beginners – Full Course : https://youtu.be/A74TOX803D0
+# firas : https://youtube.com/playlist?list=PLYq_MUtKXWyTozmI6GjEkKGjPq4glgIkd&si=pyF6uKo54ViMTGag
+#  Caleb Curry : https://youtu.be/r3GGV2TG_vw?list=PL_c9BZzLwBRKIMP_xNTJxi9lIgQhE51rF
+# Java Tutorial for Absolute Beginners : https://youtube.com/playlist?list=PLzMcBGfZo4-mOYgu42wKsStsA_ClOMpr3&si=o8zzFthYIleqKWEz
+# [ CSC111 | 111 عال ]: Full Course  : https://youtube.com/playlist?list=PLJ08R7dS9cOBF1lE7BiuNYhrgjyQmJuhQ&si=P6xOYJ0eDyqZh18I
+# TheNewBaghdad  : https://youtube.com/playlist?list=PLF8OvnCBlEY1lalnvdYmz4O_x7wII8NiI&si=3OlIBdFnsJo3kAN1
