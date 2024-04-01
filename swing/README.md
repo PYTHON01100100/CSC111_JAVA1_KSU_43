@@ -1,4 +1,4 @@
-# CSC111_JAVA1_KSU_43
+# نصيحة تعلم السوينغ متى فضيت
 #السلام عليكم ورحمة الله وبركاته لطلبة جامعة الملك سعود ممن يدرسوا عال 111 .
 #مجموعة نصائح لمن يريد أن يأخذ درجات عالية.
 #1-اكتب برامج أكثر وفهم مما تكتبه وعدل عليها وانظر وافهم فهوا ليس مادة حفظ بل فهم المنطق البرمجي والقواعد الكتابة بغلة الجافا
@@ -9,12 +9,4 @@
 #6-لا تنسى ذكر الله والصلاة على رسول الله محمد بن عبدالله عليه الصلاة والسلام وتوكل على الله وفقط أعمل بالأسباب 
 
 
-# FTC rev :  https://youtube.com/playlist?list=PLT10mtvjaTpbFl05HdQgDs0BZ2TJew1CB&si=V7ws3Iy71WYMvzJX 
-# JAVA1_KSU_43_T_ D.MAHMOUD SAMIR IBRAHIM : https://youtube.com/playlist?list=PLiOsrzh6MHoOqUJ4P3sbTivIkKzHVc_EJ&feature=shared
-# JAVA1_KSU_43 : https://youtube.com/playlist?list=PLiOsrzh6MHoNQ8gw39lObOggLn-b0tSxV&feature=shared
-# EXAMES : https://youtube.com/playlist?list=PLiOsrzh6MHoMUDFfDwjwGtrhYHMIhE2hC&feature=shared
-# EXAMES : https://youtube.com/playlist?list=PLiOsrzh6MHoPWTs74IOMBVc8Sd_zdemBN&feature=shared
-# JAVA1_KSU_43 : https://youtube.com/playlist?list=PLiOsrzh6MHoP5GDp6Xc9npiAl3BVWnzU3&feature=shared
-# F20_CSC111_Tutorials : https://youtube.com/playlist?list=PLpoeG8d3dx945D2L2zVwTMjY1JkMAkPt1&feature=shared
-# F20_CSC111_Labs : https://youtube.com/playlist?list=PLpoeG8d3dx95J8VeIwPAguH-sK54ZFkQa&feature=shared
-# Maad Coding : https://youtube.com/playlist?list=PLF7pjAYSxOFsH79nD_vCSrtSwkGoi3xe4&si=ZlAl56Aoh1-RsTCN
+# Ahmad Tayeb : https://youtube.com/playlist?list=PLSZQ3C44oU-jdul5XVsxNNC5VRiD585Cy&si=G8WJoRLIiQfzw3uX
