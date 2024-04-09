@@ -17,7 +17,6 @@
 # JAVA1_KSU_43 : https://youtube.com/playlist?list=PLiOsrzh6MHoP5GDp6Xc9npiAl3BVWnzU3&feature=shared
 # F20_CSC111_Tutorials : https://youtube.com/playlist?list=PLpoeG8d3dx945D2L2zVwTMjY1JkMAkPt1&feature=shared
 # F20_CSC111_Labs : https://youtube.com/playlist?list=PLpoeG8d3dx95J8VeIwPAguH-sK54ZFkQa&feature=shared
-# Java Tutorial for Absolute Beginners : https://youtube.com/playlist?list=PLzMcBGfZo4-mOYgu42wKsStsA_ClOMpr3&si=o8zzFthYIleqKWEz
 # [ CSC111 | 111 عال ]: Full Course  : https://youtube.com/playlist?list=PLJ08R7dS9cOBF1lE7BiuNYhrgjyQmJuhQ&si=P6xOYJ0eDyqZh18I
 #  w3schools : https://www.w3schools.com/java/default.asp
 # satr : https://satr.codes/
