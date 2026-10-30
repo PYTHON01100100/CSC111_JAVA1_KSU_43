@@ -8,15 +8,29 @@
 #5- في حال لم تفهم دكتورك أو في جزئية لا تفهما فأبحث باليوتيوب على شرح مناسب لك أو خذها من موقع هرماش
 #6-لا تنسى ذكر الله والصلاة على رسول الله محمد بن عبدالله عليه الصلاة والسلام وتوكل على الله وفقط أعمل بالأسباب 
 
-# harmash : https://harmash.com/tutorials/java/overview
-# FTC rev :  https://youtube.com/playlist?list=PLT10mtvjaTpbFl05HdQgDs0BZ2TJew1CB&si=V7ws3Iy71WYMvzJX 
-# JAVA1_KSU_43_T_ D.MAHMOUD SAMIR IBRAHIM : https://youtube.com/playlist?list=PLiOsrzh6MHoOqUJ4P3sbTivIkKzHVc_EJ&feature=shared
-# JAVA1_KSU_43 : https://youtube.com/playlist?list=PLiOsrzh6MHoNQ8gw39lObOggLn-b0tSxV&feature=shared
-# EXAMES : https://youtube.com/playlist?list=PLiOsrzh6MHoMUDFfDwjwGtrhYHMIhE2hC&feature=shared
-# EXAMES : https://youtube.com/playlist?list=PLiOsrzh6MHoPWTs74IOMBVc8Sd_zdemBN&feature=shared
-# JAVA1_KSU_43 : https://youtube.com/playlist?list=PLiOsrzh6MHoP5GDp6Xc9npiAl3BVWnzU3&feature=shared
-# F20_CSC111_Tutorials : https://youtube.com/playlist?list=PLpoeG8d3dx945D2L2zVwTMjY1JkMAkPt1&feature=shared
-# F20_CSC111_Labs : https://youtube.com/playlist?list=PLpoeG8d3dx95J8VeIwPAguH-sK54ZFkQa&feature=shared
-# [ CSC111 | 111 عال ]: Full Course  : https://youtube.com/playlist?list=PLJ08R7dS9cOBF1lE7BiuNYhrgjyQmJuhQ&si=P6xOYJ0eDyqZh18I
-#  w3schools : https://www.w3schools.com/java/default.asp
-# satr : https://satr.codes/
+---
+
+## References
+
+### KSU References (YouTube Playlists)
+
+| Playlist | By | Link | Backup |
+|----------|----|------|--------|
+| JAVA1_KSU_43 | Faroun | <https://www.youtube.com/playlist?list=PLiOsrzh6MHoNQ8gw39lObOggLn-b0tSxV> | – |
+| JAVA1_KSU_43_عملي | Faroun | <https://www.youtube.com/playlist?list=PLiOsrzh6MHoP5GDp6Xc9npiAl3BVWnzU3> | – |
+| JAVA1_KSU_43_T_ | D. Mahmoud Samir Ibrahim | <https://www.youtube.com/playlist?list=PLiOsrzh6MHoOqUJ4P3sbTivIkKzHVc_EJ> | – |
+| الاختبارات النهائية السابقة لعال 111: Java 1 (Previous final exams) | Faroun | <https://www.youtube.com/playlist?list=PLiOsrzh6MHoMUDFfDwjwGtrhYHMIhE2hC> | – |
+| اختبارات الميد لعال 111: JAVA1 (Midterm exams) | Faroun | <https://www.youtube.com/playlist?list=PLiOsrzh6MHoPWTs74IOMBVc8Sd_zdemBN> | – |
+| F20_CSC111_Labs | Abdulrahman Alshememry | <https://www.youtube.com/playlist?list=PLpoeG8d3dx95J8VeIwPAguH-sK54ZFkQa> | <https://www.youtube.com/playlist?list=PLiOsrzh6MHoOojuwXx1PoMlyWCYjD-cA3> |
+| F20_CSC111_Tutorials | Abdulrahman Alshememry | <https://www.youtube.com/playlist?list=PLpoeG8d3dx945D2L2zVwTMjY1JkMAkPt1> | No backup |
+| تقوية عال (Reinforcement) | نادي تقنية المستقبل (Future Technology Club) | <https://www.youtube.com/playlist?list=PLT10mtvjaTpbFl05HdQgDs0BZ2TJew1CB> | – |
+
+### Other Resources (outside KSU)
+
+| Resource | Language | Link |
+|----------|----------|------|
+| Harmash | Arabic | <https://harmash.com/tutorials/java/overview> |
+| Tuwaiq Academy (Satr) | Arabic | <https://satr.tuwaiq.edu.sa/> |
+| W3Schools Java | English – useful if you want to improve your English | <https://www.w3schools.com/java/default.asp> |
+
+ 
