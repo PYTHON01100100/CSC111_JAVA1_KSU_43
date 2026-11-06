@@ -22,7 +22,7 @@
 | الاختبارات النهائية السابقة لعال 111: Java 1 (Previous final exams) | Faroun | <https://www.youtube.com/playlist?list=PLiOsrzh6MHoMUDFfDwjwGtrhYHMIhE2hC> | – |
 | اختبارات الميد لعال 111: JAVA1 (Midterm exams) | Faroun | <https://www.youtube.com/playlist?list=PLiOsrzh6MHoPWTs74IOMBVc8Sd_zdemBN> | – |
 | F20_CSC111_Labs | Abdulrahman Alshememry | <https://www.youtube.com/playlist?list=PLpoeG8d3dx95J8VeIwPAguH-sK54ZFkQa> | <https://www.youtube.com/playlist?list=PLiOsrzh6MHoOojuwXx1PoMlyWCYjD-cA3> |
-| F20_CSC111_Tutorials | Abdulrahman Alshememry | <https://www.youtube.com/playlist?list=PLpoeG8d3dx945D2L2zVwTMjY1JkMAkPt1> | No backup |
+| F20_CSC111_Tutorials | Abdulrahman Alshememry | <https://www.youtube.com/playlist?list=PLpoeG8d3dx945D2L2zVwTMjY1JkMAkPt1> | https://youtube.com/playlist?list=PLbEbdRir77VQ&si=uI2sU5vg1ryLX7Qc |
 | تقوية عال (Reinforcement) | نادي تقنية المستقبل (Future Technology Club) | <https://www.youtube.com/playlist?list=PLT10mtvjaTpbFl05HdQgDs0BZ2TJew1CB> | – |
 
 ### Other Resources (outside KSU)
